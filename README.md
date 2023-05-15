@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owais Aijaz</h1>
 <h3 align="center">Technophile | Aspiring Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oa07610" alt="oa07610" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development Projects**
 
 - 🌱 I’m currently learning **ReactNative, ReactJS**
