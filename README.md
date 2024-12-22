@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owais Aijaz</h1>
-<h3 align="center">Technophile | Aspiring Software Developer</h3>
+<h3 align="center">AI Engineer</h3>
 
-- 🔭 I’m currently working on **Web Development Projects**
-
-- 🌱 I’m currently learning **ReactNative, ReactJS**
-
-- 💬 Ask me about **Python, C++ and Verilog**
+- 🔭 I’m currently working on AI/ML Projects utilising SOTA models for downstream tasks.
 
 - 📫 How to reach me **owaisaijaz2003@gmail.com**
 
