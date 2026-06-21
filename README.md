@@ -31,7 +31,7 @@ I'm an MSc NLP student at MBZUAI and a data-team intern at the Institute of Foun
 
 ### Open-source & research
 
-- **[SciDER](https://github.com/leonardodalinky/SciDER)** [![SciDER stars](https://img.shields.io/github/stars/leonardodalinky/SciDER?style=social)](https://github.com/leonardodalinky/SciDER) — autonomous multi-agent system for end-to-end scientific research. **Co-author and a core contributor** (20+ commits). [Live demo](https://huggingface.co/spaces/AI4Research/scider) · [Project page](https://leonardodalinky.github.io/scider-proj-page/) · [Paper](https://arxiv.org/abs/2603.01421)
+- **[SciDER](https://github.com/leonardodalinky/SciDER)** [![SciDER stars](https://img.shields.io/github/stars/leonardodalinky/SciDER?style=social)](https://github.com/leonardodalinky/SciDER) — autonomous multi-agent system for end-to-end scientific research. **Co-author and a core contributor**. [Live demo](https://huggingface.co/spaces/AI4Research/scider) · [Project page](https://leonardodalinky.github.io/scider-proj-page/) · [Paper](https://arxiv.org/abs/2603.01421)
 
 ### Publications
 
